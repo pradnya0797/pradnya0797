@@ -1,4 +1,4 @@
-# "Hello, I'm Pradnya, a Data Analyst."
+# "Hello, I'm Pradnya, a Data Analyst"
 
 - 🌱 I’m currently learning: Power BI, SQL, Python
 
