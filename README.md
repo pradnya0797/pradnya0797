@@ -1,6 +1,6 @@
 # "Hello, I'm Pradnya, a Data Analyst"
 
-- 🌱 I’m currently learning: Power BI, SQL, Python
+- 🌱 I’m currently learning: Python
 
 - 📫 How to reach me: https://www.linkedin.com/in/pradnyataras/ || pradnyataras7@gmail.com
 
