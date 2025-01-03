@@ -16,7 +16,7 @@ Transforming raw data into actionable insights is my passion. This repository is
 ##  📊Featured Projects  
 
 ### **[Operational Insights for Cab Service](https://github.com/pradnya0797/Operational-Insights-for-Cab-Service)**  
-* **Tools:** Power BI, SQL, Excel  
+* **Tools:** Power BI, SQL  
 * **Highlights:**  
   - Designed an interactive dashboard to evaluate trip volumes, passenger satisfaction, and revenue growth trends.  
   - Insights helped improve operational efficiency and contributed to a 15% increase in customer retention.  
