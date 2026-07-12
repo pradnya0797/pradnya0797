@@ -35,8 +35,7 @@ Transforming raw data into actionable insights is my passion. This repository is
 
 I’m constantly exploring new ways to simplify and visualize data. Have an exciting project or collaboration in mind? Let’s connect!  
 
-- **📩 Email:** [pradnyataras7@gmail.com](mailto:pradnyataras7@gmail.com)  
-- **🔗 LinkedIn:** [Pradnya Taras](https://www.linkedin.com/in/pradnyataras/)  
+ 
 - **🌐 GitHub:** [Explore My Work](https://github.com/pradnya0797)  
 
 ---
